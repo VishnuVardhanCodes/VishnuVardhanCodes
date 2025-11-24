@@ -37,13 +37,21 @@
 
 ---
 
-### 💻 GitHub Stats
+<h3>📊 GitHub Stats</h3>
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishnu Vardhan Codes&theme=react" alt="Profile Details" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishnu Vardhan Codes&theme=react" alt="Repos per Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishnu Vardhan Codes&theme=react" alt="Most Commit Language" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VAIBHAVBABELE&theme=react" alt="Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VAIBHAVBABELE&theme=react&utcOffset=8" alt="Productive Time" />
+  </p>
 
-<h3 align="center" style="color: orange;">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanCodes&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VAIBHAVBABELE&theme=radical" alt="GitHub Streak" />
+  </p>
+  
+  <!--Line-->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ---
 
