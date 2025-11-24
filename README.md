@@ -46,11 +46,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishnu Vardhan Codes&theme=react&utcOffset=8" alt="Productive Time" />
   </p>
 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu Vardhan Codes&theme=radical" alt="GitHub Streak" />
-  </p>
-  
-  <!--Line-->
+    <!--Line-->
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ---
