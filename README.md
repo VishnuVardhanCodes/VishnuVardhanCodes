@@ -42,8 +42,8 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishnu Vardhan Codes&theme=react" alt="Profile Details" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishnu Vardhan Codes&theme=react" alt="Repos per Language" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishnu Vardhan Codes&theme=react" alt="Most Commit Language" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VAIBHAVBABELE&theme=react" alt="Stats" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VAIBHAVBABELE&theme=react&utcOffset=8" alt="Productive Time" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishnu Vardhan Codes&theme=react" alt="Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishnu Vardhan Codes&theme=react&utcOffset=8" alt="Productive Time" />
   </p>
 
   <p>
