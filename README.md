@@ -3,7 +3,7 @@
 
 ### <h2 align="center"> 🚀 Web Developer | AI & ML Enthusiast | Open Source Contributor | </h2> 
 
-----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ### ☀️ About Me
 
@@ -13,7 +13,7 @@
 - 🧠 Learning SQL & MYSQL and Python  
 - ⚙️ Fun fact: *I love solving problems & tinkering with electronics!*
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ### 🧰 Tech Stack
 
@@ -34,8 +34,7 @@
 </p>
 
 
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 <h3>📊 GitHub Stats</h3>
   <p>
@@ -49,16 +48,7 @@
  
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
-  GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu Vardhan Codes &theme=codeSTACKr&hide_border=true" 
-    alt="GitHub Streak" 
-    style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;" 
-  />
-  <br/>
 
----
 
 ### 🧠 Top Languages
 
@@ -68,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuVardhanCodes&layout=compact&theme=tokyonight" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 🚀 Dynamic Profile Views
 
@@ -77,7 +67,7 @@
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 🌍 Let's Connect!
 
@@ -98,3 +88,4 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
