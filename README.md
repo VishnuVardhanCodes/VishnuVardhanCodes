@@ -1,4 +1,4 @@
-# POLLA-VISHNU-VARDHAN
+
 <h1 align="center">Hi, I'm POLLA VISHNU VARDHAN ! 👋</h1>
 
 ### <h2 align="center"> 🚀 Web Developer | AI & ML Enthusiast | Open Source Contributor | </h2> 
