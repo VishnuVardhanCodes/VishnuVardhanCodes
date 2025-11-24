@@ -47,7 +47,7 @@
   </p>
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VAIBHAVBABELE&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu Vardhan Codes&theme=radical" alt="GitHub Streak" />
   </p>
   
   <!--Line-->
