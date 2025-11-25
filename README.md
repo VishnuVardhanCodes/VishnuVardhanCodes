@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi, I'm POLLA VISHNU VARDHAN ! 👋</h1>
 
-### <h2 align="center"> 🚀 Web Developer | AI & ML Enthusiast | Open Source Contributor | </h2> 
-
+ <h2 align="center"> 🚀 Web Developer | AI & ML Enthusiast | Open Source Contributor | </h2> 
+ 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
-### ☀️ About Me
+ ☀️ About Me
 
 - 🔭 Working on Web Development Projects  
 - 🤖 Exploring AI-powered applications  
@@ -15,7 +15,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
-### 🧰 Tech Stack
+ 🧰 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
@@ -50,7 +50,7 @@
 
 
 
-### 🧠 Top Languages
+ 🧠 Top Languages
 
 <h3 align="center" style="color: orange;">My Technical Skills</h3>
 
