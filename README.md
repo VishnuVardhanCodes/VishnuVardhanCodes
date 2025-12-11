@@ -5,8 +5,7 @@
  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
- ☀️ About Me
-
+ ☀️ **About Me**
 - 🔭 Working on Web Development Projects  
 - 🤖 Exploring AI-powered applications  
 - 💡 Passionate about Machine Learning & Automation  
@@ -15,8 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
- 🧰 Tech Stack
-
+ 🧰 **Tech Stack**
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
