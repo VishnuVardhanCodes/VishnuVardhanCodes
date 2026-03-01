@@ -7,7 +7,7 @@
 
  ☀️ **About Me**
 - 🔭 Working on Web Development Projects !
-- 🤖 Exploring AI-powered applications  
+- 🤖 Exploring AI-powered applications !
 - 💡 Passionate about Machine Learning & Automation  
 - 🧠 Learning SQL & MYSQL and Python  
 - ⚙️ Fun fact: *I love solving problems & tinkering with electronics!* 
