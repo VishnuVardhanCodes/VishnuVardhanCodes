@@ -10,7 +10,7 @@
 - 🤖 Exploring AI-powered applications !
 - 💡 Passionate about Machine Learning & Automation !
 - 🧠 Learning SQL & MYSQL and Python ! 
-- ⚙️ Fun fact: *I love solving problems & tinkering with electronics!* !
+- ⚙️ Fun fact: *I love solving problems & tinkering with electronics!* ! 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
